@@ -1,4 +1,14 @@
-int row, column, moves = 0;
+
+    internal class Program
+
+    {
+
+        static void Main(string[] args)
+
+        {
+
+
+            int row, column, moves = 0;
 
             char player, changePlayer = 'X';
 
