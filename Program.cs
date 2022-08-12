@@ -143,7 +143,7 @@
 
 
 
-            Console.WriteLine("__|_1_|_2_|_3_|");
+            Console.WriteLine("__|_0_|_1_|_2_|");
 
             for (int i = 0; i < table.GetLength(0); i++)
 
